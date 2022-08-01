@@ -1,0 +1,36 @@
+.formContainer {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #d4d4d5;
+}
+
+.formGroupError {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid red;
+}
+
+.formGroupSuccess {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid green;
+}
+
+.formGroup {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.formGroup input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #d4d4d5;
+}
+
+.formGroup button {
+    width: 100%;
+    display: inline-block;
+    padding: 10px;
+    background: transparent;
+    border: 1px solid #d4d4d5;
+}
